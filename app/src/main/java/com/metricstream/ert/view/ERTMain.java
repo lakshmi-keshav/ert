@@ -1,4 +1,4 @@
-package com.metricstream.ert;
+package com.metricstream.ert.view;
 
 import android.annotation.SuppressLint;
 import android.support.v7.app.ActionBar;
